@@ -9,3 +9,4 @@ My Github Stats:
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JeffTheK)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/JeffTheK/JeffTheK)](https://badges.pufler.dev)
