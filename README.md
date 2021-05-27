@@ -6,6 +6,7 @@ My Github Stats:
 
   [![JeffTheK's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffTheK&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffTheK&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![JeffTheK Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffTheK&theme=radical&count_private=true)
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JeffTheK)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/JeffTheK)](https://badges.pufler.dev)
