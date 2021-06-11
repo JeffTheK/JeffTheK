@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **Visit my Github account,Create issue on a repo!**
 
-- ⚡ Fun fact **I do not create repo but I Pull reauest to enhance developers!**
+- ⚡ Fun fact **I do not create repo but I Pull request to enhance developers!**
 
 
 <h3 align="left">Languages and Tools:</h3>
