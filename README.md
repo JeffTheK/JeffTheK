@@ -1,6 +1,6 @@
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true" width="400" height="250"/>
-
+<img align="right" alt="GIF" src="https://github.com/AristodamusAdairs/GIF-Collection/blob/main/d5hebom-ca8577db-0005-4775-a416-52e6b91a93f5.gif" width="250" height="250"/>
+<img align="left" alt="GIF" src="https://github.com/AristodamusAdairs/GIF-Collection/blob/main/d53prcj-ca348ce0-c5d8-45b6-940e-767cd00f7bb3.gif" width="250" height="250"/>
 
 
 
@@ -43,3 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffthek&" alt="jeffthek" /></p>
 -:love_hotel: I like to be friend with Aristodamus Adairs. :-) He is already my friend!
+<h1 align="centre">PAIN MAKES A KILLER A BELEIVER! NOT A KILLER BUT A PROGRAMMER! JaneTheK rains down. MY KNIFE MAKES PROGRAMS RAIN DOWN AND I AM THE FACE OF FUTURE </h1>
+<img align="left" alt="GIF" src="https://github.com/AristodamusAdairs/GIF-Collection/blob/main/d8sbfoo-7772077e-db42-4b6f-9ab1-3a0500b18ceb.gif" width="250" height="250"/>
+<img align="right" alt="GIF" src="https://github.com/AristodamusAdairs/GIF-Collection/blob/main/80540d1729731ff271ec17a7dd4f2f55.gif" width="250" height="250"/>
