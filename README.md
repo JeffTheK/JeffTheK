@@ -17,13 +17,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffthek" alt="jeffthek" /></a> </p>
 
-- 🔭 I’m currently working on [rella](https://github.com/JeffTheK/rella)
-
 - 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on [Penetration Coin](https://github.com/AristodamusAdairs/Penetrationcoin)
-
-
 
 - 💬 Ask me about **C++ or python or any language!**
 
