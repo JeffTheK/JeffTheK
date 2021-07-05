@@ -52,4 +52,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffthek&show_icons=true&locale=en" alt="jeffthek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffthek&" alt="jeffthek" /></p>
--:love_hotel: I like to be friend with Aristodamus Adairs. :-) He is already my friend!
