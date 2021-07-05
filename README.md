@@ -23,15 +23,13 @@
 
 - 👯 I’m looking to collaborate on [Penetration Coin](https://github.com/AristodamusAdairs/Penetrationcoin)
 
-- 🤝 I’m looking for help with **I am already great!**
-
 
 
 - 💬 Ask me about **C++ or python or any language!**
 
 - 📫 How to reach me **Visit my Github account,Create issue on a repo!**
 
-- ⚡ Fun fact **I do not create repo but I Pull request to enhance developers!**
+- ⚡ Fun fact **There are around 700 separate programming languages!**
 
 
 <h3 align="left">Languages and Tools:</h3>
