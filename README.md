@@ -49,5 +49,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffthek&" alt="jeffthek" /></p>
 
-# 🤙 Connect with me
+# 🤙 Connect with me]
+- [Reddit](https://www.reddit.com/user/Shwaika_Redd)
 - [Twitter](https://twitter.com/ShwaikaTwittter)
