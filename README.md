@@ -1,25 +1,11 @@
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true" width="400" height="250"/>
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Jeff the K</h1>
-<h3 align="center">A passionate developer serving other people</h3>
+<h1 align="center">Hi 👋, I'm JeffTheK</h1>
+<h3 align="center">A passionate game developer and owner of MoonPie Games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffthek&label=Profile%20views&color=0e75b6&style=flat" alt="jeffthek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffthek" alt="jeffthek" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering**
-
-- 👯 I’m looking to collaborate on [Penetration Coin](https://github.com/AristodamusAdairs/Penetrationcoin)
 
 - 💬 Ask me about **C++ or python or any language!**
 
@@ -50,6 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffthek&" alt="jeffthek" /></p>
 
 # 🤙 Connect with me
-- [Reddit](https://www.reddit.com/user/Shwaika_Redd)
-- [Twitter](https://twitter.com/ShwaikaTwittter)
-- [YouTube](https://www.youtube.com/channel/UCLQhJBCEDqlOnuM0lCipe1Q)
+- [MoonPie Games](https://shwaikakaz.wixsite.com/moonpiegames)
+- [Play Market Page](https://play.google.com/store/apps/dev?id=8610739840761695390&hl=ru&gl=US)
+- [YouTube](https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww)
